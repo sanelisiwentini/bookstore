@@ -1,3 +1,17 @@
+# _eclipse
+_eclipse/.metadata
+_eclipse/.recommenders
+_eclipse/RemoteSystemsTempFiles
+_eclipse/Servers
+
+# bookstore
+.settings
+.metadata
+target
+build
+.classpath
+.project
+
 # Compiled class file
 *.class
 
@@ -18,6 +32,8 @@
 *.zip
 *.tar.gz
 *.rar
+
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
